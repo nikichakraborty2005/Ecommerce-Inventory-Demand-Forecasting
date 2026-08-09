@@ -1,0 +1,6 @@
+fc_id,fc_city,region,capacity_units
+FC01,Bhiwandi (Mumbai),West,500000
+FC02,Bengaluru,South,420000
+FC03,Delhi NCR,North,480000
+FC04,Kolkata,East,260000
+FC05,Hyderabad,South,300000

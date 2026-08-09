@@ -1,0 +1,16 @@
+sku_id,category,abc_class,demand,sold,fill_rate_pct
+SKU0065,Fashion & Apparel,C,9895,8001,80.86
+SKU0025,Electronics & Appliances,A,15109,12288,81.33
+SKU0103,Home & Kitchen,B,8165,6653,81.48
+SKU0068,Fashion & Apparel,A,48736,40039,82.15
+SKU0077,Home & Kitchen,A,31647,26127,82.56
+SKU0091,Home & Kitchen,C,5656,4671,82.58
+SKU0143,Grocery & Essentials,B,83079,68903,82.94
+SKU0006,Mobiles & Accessories,A,16693,13859,83.02
+SKU0137,Grocery & Essentials,B,73280,60841,83.03
+SKU0141,Grocery & Essentials,B,79148,65752,83.07
+SKU0038,Electronics & Appliances,A,10878,9042,83.12
+SKU0074,Fashion & Apparel,C,10241,8521,83.2
+SKU0122,Beauty & Personal Care,C,26959,22450,83.27
+SKU0104,Home & Kitchen,A,23243,19367,83.32
+SKU0123,Beauty & Personal Care,C,13961,11633,83.32

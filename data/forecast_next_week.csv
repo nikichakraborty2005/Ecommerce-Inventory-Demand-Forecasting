@@ -1,0 +1,151 @@
+sku_id,category,forecast_week,forecast_demand_units
+SKU0149,Grocery & Essentials,2026-01-06,598.6
+SKU0075,Fashion & Apparel,2026-01-06,591.4
+SKU0147,Grocery & Essentials,2026-01-06,607.6
+SKU0051,Fashion & Apparel,2026-01-06,610.1
+SKU0050,Fashion & Apparel,2026-01-06,603.1
+SKU0049,Fashion & Apparel,2026-01-06,603.1
+SKU0048,Fashion & Apparel,2026-01-06,499.4
+SKU0047,Fashion & Apparel,2026-01-06,335.1
+SKU0046,Fashion & Apparel,2026-01-06,596.6
+SKU0052,Fashion & Apparel,2026-01-06,501.2
+SKU0045,Fashion & Apparel,2026-01-06,603.7
+SKU0043,Fashion & Apparel,2026-01-06,605.1
+SKU0042,Fashion & Apparel,2026-01-06,196.7
+SKU0041,Fashion & Apparel,2026-01-06,498.4
+SKU0040,Electronics & Appliances,2026-01-06,246.8
+SKU0039,Electronics & Appliances,2026-01-06,117.1
+SKU0038,Electronics & Appliances,2026-01-06,150.3
+SKU0044,Fashion & Apparel,2026-01-06,191.6
+SKU0053,Fashion & Apparel,2026-01-06,517.1
+SKU0054,Fashion & Apparel,2026-01-06,605.2
+SKU0055,Fashion & Apparel,2026-01-06,203.4
+SKU0070,Fashion & Apparel,2026-01-06,333.0
+SKU0069,Fashion & Apparel,2026-01-06,447.6
+SKU0068,Fashion & Apparel,2026-01-06,603.8
+SKU0067,Fashion & Apparel,2026-01-06,254.6
+SKU0066,Fashion & Apparel,2026-01-06,607.3
+SKU0065,Fashion & Apparel,2026-01-06,118.5
+SKU0064,Fashion & Apparel,2026-01-06,205.2
+SKU0063,Fashion & Apparel,2026-01-06,604.1
+SKU0062,Fashion & Apparel,2026-01-06,597.7
+SKU0061,Fashion & Apparel,2026-01-06,455.1
+SKU0060,Fashion & Apparel,2026-01-06,596.7
+SKU0059,Fashion & Apparel,2026-01-06,496.1
+SKU0058,Fashion & Apparel,2026-01-06,571.0
+SKU0057,Fashion & Apparel,2026-01-06,236.1
+SKU0056,Fashion & Apparel,2026-01-06,315.1
+SKU0037,Electronics & Appliances,2026-01-06,215.0
+SKU0071,Fashion & Apparel,2026-01-06,507.3
+SKU0036,Electronics & Appliances,2026-01-06,133.2
+SKU0034,Electronics & Appliances,2026-01-06,47.9
+SKU0014,Mobiles & Accessories,2026-01-06,200.1
+SKU0013,Mobiles & Accessories,2026-01-06,163.7
+SKU0012,Mobiles & Accessories,2026-01-06,172.6
+SKU0011,Mobiles & Accessories,2026-01-06,174.8
+SKU0010,Mobiles & Accessories,2026-01-06,214.9
+SKU0009,Mobiles & Accessories,2026-01-06,96.4
+SKU0015,Mobiles & Accessories,2026-01-06,461.6
+SKU0008,Mobiles & Accessories,2026-01-06,421.2
+SKU0006,Mobiles & Accessories,2026-01-06,225.4
+SKU0005,Mobiles & Accessories,2026-01-06,194.7
+SKU0004,Mobiles & Accessories,2026-01-06,113.4
+SKU0003,Mobiles & Accessories,2026-01-06,493.3
+SKU0002,Mobiles & Accessories,2026-01-06,269.4
+SKU0001,Mobiles & Accessories,2026-01-06,491.4
+SKU0007,Mobiles & Accessories,2026-01-06,466.3
+SKU0016,Mobiles & Accessories,2026-01-06,108.7
+SKU0017,Mobiles & Accessories,2026-01-06,342.4
+SKU0018,Mobiles & Accessories,2026-01-06,318.5
+SKU0033,Electronics & Appliances,2026-01-06,75.6
+SKU0032,Electronics & Appliances,2026-01-06,51.9
+SKU0031,Electronics & Appliances,2026-01-06,177.3
+SKU0030,Electronics & Appliances,2026-01-06,88.6
+SKU0029,Electronics & Appliances,2026-01-06,176.5
+SKU0028,Electronics & Appliances,2026-01-06,244.2
+SKU0027,Electronics & Appliances,2026-01-06,54.2
+SKU0026,Electronics & Appliances,2026-01-06,55.0
+SKU0025,Electronics & Appliances,2026-01-06,207.8
+SKU0024,Electronics & Appliances,2026-01-06,76.5
+SKU0023,Electronics & Appliances,2026-01-06,158.4
+SKU0022,Electronics & Appliances,2026-01-06,54.3
+SKU0021,Electronics & Appliances,2026-01-06,110.3
+SKU0020,Mobiles & Accessories,2026-01-06,454.9
+SKU0019,Mobiles & Accessories,2026-01-06,100.9
+SKU0035,Electronics & Appliances,2026-01-06,41.7
+SKU0072,Fashion & Apparel,2026-01-06,598.8
+SKU0073,Fashion & Apparel,2026-01-06,491.2
+SKU0074,Fashion & Apparel,2026-01-06,135.5
+SKU0127,Beauty & Personal Care,2026-01-06,337.0
+SKU0126,Beauty & Personal Care,2026-01-06,561.6
+SKU0125,Beauty & Personal Care,2026-01-06,335.5
+SKU0124,Beauty & Personal Care,2026-01-06,603.8
+SKU0123,Beauty & Personal Care,2026-01-06,193.1
+SKU0122,Beauty & Personal Care,2026-01-06,415.0
+SKU0128,Beauty & Personal Care,2026-01-06,600.1
+SKU0121,Beauty & Personal Care,2026-01-06,456.0
+SKU0119,Beauty & Personal Care,2026-01-06,395.1
+SKU0118,Beauty & Personal Care,2026-01-06,504.3
+SKU0117,Beauty & Personal Care,2026-01-06,249.2
+SKU0116,Beauty & Personal Care,2026-01-06,271.2
+SKU0115,Beauty & Personal Care,2026-01-06,315.1
+SKU0114,Beauty & Personal Care,2026-01-06,258.5
+SKU0120,Beauty & Personal Care,2026-01-06,453.7
+SKU0129,Beauty & Personal Care,2026-01-06,599.6
+SKU0130,Beauty & Personal Care,2026-01-06,393.0
+SKU0131,Grocery & Essentials,2026-01-06,598.9
+SKU0146,Grocery & Essentials,2026-01-06,602.5
+SKU0145,Grocery & Essentials,2026-01-06,591.1
+SKU0144,Grocery & Essentials,2026-01-06,599.0
+SKU0143,Grocery & Essentials,2026-01-06,908.1
+SKU0142,Grocery & Essentials,2026-01-06,629.3
+SKU0141,Grocery & Essentials,2026-01-06,906.6
+SKU0140,Grocery & Essentials,2026-01-06,637.0
+SKU0139,Grocery & Essentials,2026-01-06,882.2
+SKU0138,Grocery & Essentials,2026-01-06,608.4
+SKU0137,Grocery & Essentials,2026-01-06,903.1
+SKU0136,Grocery & Essentials,2026-01-06,504.6
+SKU0135,Grocery & Essentials,2026-01-06,621.8
+SKU0134,Grocery & Essentials,2026-01-06,600.7
+SKU0133,Grocery & Essentials,2026-01-06,406.8
+SKU0132,Grocery & Essentials,2026-01-06,299.9
+SKU0113,Beauty & Personal Care,2026-01-06,245.9
+SKU0112,Beauty & Personal Care,2026-01-06,231.7
+SKU0111,Beauty & Personal Care,2026-01-06,340.7
+SKU0110,Beauty & Personal Care,2026-01-06,225.8
+SKU0090,Home & Kitchen,2026-01-06,141.3
+SKU0089,Home & Kitchen,2026-01-06,396.2
+SKU0088,Home & Kitchen,2026-01-06,174.7
+SKU0087,Home & Kitchen,2026-01-06,457.2
+SKU0086,Home & Kitchen,2026-01-06,366.1
+SKU0085,Home & Kitchen,2026-01-06,204.0
+SKU0084,Home & Kitchen,2026-01-06,186.4
+SKU0083,Home & Kitchen,2026-01-06,365.2
+SKU0082,Home & Kitchen,2026-01-06,168.1
+SKU0081,Home & Kitchen,2026-01-06,427.1
+SKU0080,Home & Kitchen,2026-01-06,336.2
+SKU0079,Home & Kitchen,2026-01-06,93.6
+SKU0078,Home & Kitchen,2026-01-06,75.0
+SKU0077,Home & Kitchen,2026-01-06,478.1
+SKU0076,Home & Kitchen,2026-01-06,414.6
+SKU0091,Home & Kitchen,2026-01-06,71.0
+SKU0148,Grocery & Essentials,2026-01-06,807.9
+SKU0092,Home & Kitchen,2026-01-06,247.7
+SKU0094,Home & Kitchen,2026-01-06,266.5
+SKU0109,Beauty & Personal Care,2026-01-06,506.7
+SKU0108,Beauty & Personal Care,2026-01-06,600.0
+SKU0107,Beauty & Personal Care,2026-01-06,601.7
+SKU0106,Beauty & Personal Care,2026-01-06,337.2
+SKU0105,Home & Kitchen,2026-01-06,287.6
+SKU0104,Home & Kitchen,2026-01-06,391.7
+SKU0103,Home & Kitchen,2026-01-06,100.9
+SKU0102,Home & Kitchen,2026-01-06,339.2
+SKU0101,Home & Kitchen,2026-01-06,394.6
+SKU0100,Home & Kitchen,2026-01-06,225.1
+SKU0099,Home & Kitchen,2026-01-06,234.8
+SKU0098,Home & Kitchen,2026-01-06,453.0
+SKU0097,Home & Kitchen,2026-01-06,74.9
+SKU0096,Home & Kitchen,2026-01-06,391.1
+SKU0095,Home & Kitchen,2026-01-06,173.7
+SKU0093,Home & Kitchen,2026-01-06,136.0
+SKU0150,Grocery & Essentials,2026-01-06,452.5

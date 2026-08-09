@@ -1,0 +1,5 @@
+model,wmape_pct
+Naive (last week),28.21876235698051
+Moving Average (4wk),20.84202675376697
+Random Forest,13.981581007376114
+Gradient Boosting,14.29839353932523
