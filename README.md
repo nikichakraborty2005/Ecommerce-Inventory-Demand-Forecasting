@@ -178,7 +178,7 @@ safety stock.
 
 ------------------------------------------------------------------------
 
-# 🅰️🅱️© 3. ABC Analysis
+# 3. ABC Analysis
 
 The `ABC_Analysis` sheet performs revenue-based Pareto classification.
 
